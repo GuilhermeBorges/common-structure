@@ -1,0 +1,11 @@
+.css{
+	height: 100px;
+	padding-top: 45px;
+	text-align: center;
+	color: #343434;
+	background-color: #eee;
+}
+
+.css > span{
+	color: #D13232;
+}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["example.css"],"names":[],"mappings":"AAAA,KACC,OAAQ,MACR,YAAa,KACb,WAAY,OACZ,MAAO,QACP,iBAAkB,KAGnB,UACC,MAAO","file":"main.css","sourceRoot":"/source/","sourcesContent":[".css{\r\n\theight: 100px;\r\n\tpadding-top: 45px;\r\n\ttext-align: center;\r\n\tcolor: #343434;\r\n\tbackground-color: #eee;\r\n}\r\n\r\n.css > span{\r\n\tcolor: #D13232;\r\n}"]}

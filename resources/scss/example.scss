@@ -1,0 +1,14 @@
+$black: #343434;
+$yellow:#EFE24E;
+$background: $black;
+$white: #E6E7E1;
+.scss{
+	height: 100px;
+	padding-top: 45px;
+	text-align: center;
+	color: $white;
+	background-color: $background;
+	span{
+		color: $yellow;
+	}
+}
